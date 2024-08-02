@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemdy2009
 - 👀 I’m interested in technologies and video games!
-- 🌱 I’m currently learning JAVA EE (for web devlopment)
+- 🌱 I’m currently learning JavaFX
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me : you can't, because I wanna be alone now.
 - 😄 Pronouns: He/His
